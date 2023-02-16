@@ -1,0 +1,50 @@
+[
+    {
+        "product_category": "dsffd",
+        "product_category_2": "dfdf",
+        "qty": "dfdf",
+        "unit_price": "dfdf",
+        "position": "dfdf",
+        "art_nr": "dfdf",
+        "description": "dfdffd",
+        "img": "http:\/\/127.0.0.1:8000\/pngs\/GsZQsur3Et_8.png",
+        "qty_unit": "dfdf",
+        "total_price": "dfdf"
+    },
+    {
+        "product_category": "dfdfdf",
+        "product_category_2": "dfdf",
+        "qty": "dfdf",
+        "unit_price": "dfdf",
+        "position": "dfdf",
+        "art_nr": "dfdf",
+        "description": "dfdfd",
+        "img": "http:\/\/127.0.0.1:8000\/pngs\/GsZQsur3Et_8.png",
+        "qty_unit": "dfdf",
+        "total_price": "dfdf"
+    },
+    {
+        "product_category": "dfdf",
+        "product_category_2": "dfdf",
+        "qty": "dfdf",
+        "unit_price": "dfdf",
+        "position": "dfdf",
+        "art_nr": "dfdf",
+        "description": "fdf",
+        "img": "http:\/\/127.0.0.1:8000\/pngs\/GsZQsur3Et_8.png",
+        "qty_unit": "fdf",
+        "total_price": "dfdf"
+    },
+    {
+        "product_category": "fdf",
+        "product_category_2": "dfdf",
+        "qty": "fddfdf",
+        "unit_price": "dfdf",
+        "position": "dfdf",
+        "art_nr": "dfdfd",
+        "description": "dfdf",
+        "img": "http:\/\/127.0.0.1:8000\/pngs\/GsZQsur3Et_8.png",
+        "qty_unit": "dfdf",
+        "total_price": "fddf"
+    }
+]
